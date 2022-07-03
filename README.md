@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deejithr
-- 👀 I’m interested in C, coding, Python, Linux
+- 👀 I’m interested in C, coding, Python, Linux, AUTOSAR
 - 🌱 I’m currently learning C++
 
 
